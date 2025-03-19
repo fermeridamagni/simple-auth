@@ -1,0 +1,56 @@
+{
+  "name": "@simple-auth/core",
+  "version": "0.0.1",
+  "license": "ISC",
+  "type": "module",
+  "description": "Simple Authentication",
+  "publisher": "fermeridamagni <Magni Developer>",
+  "author": {
+    "name": "fermeridamagni <Magni Developer>",
+    "url": "https://www.magnideveloper.com"
+  },
+  "repository": {
+    "url": "https://github.com/fermeridamagni/simple-auth.git",
+    "type": "git",
+    "directory": "packages/core"
+  },
+  "keywords": [
+    "auth",
+    "simple-auth",
+    "authentication"
+  ],
+  "bugs": {
+    "url": "https://github.com/fermeridamagni/simple-auth/issues"
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "types": "./dist/simple-auth.d.ts",
+  "main": "./dist/simple-auth.cjs",
+  "browser": "./dist/simple-auth.js",
+  "exports": {
+    ".": {
+      "import": "./dist/simple-auth.js",
+      "require": "./dist/simple-auth.cjs",
+      "types": "./dist/simple-auth.d.ts"
+    }
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "package.json"
+  ],
+  "dependencies": {
+    "otpauth": "^9.3.6"
+  },
+  "devDependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "eslint": "^9.22.0",
+    "eslint-config-prettier": "^10.1.1",
+    "globals": "^16.0.0",
+    "semantic-release": "^24.2.3",
+    "tsup": "^8.4.0",
+    "typescript": "^5.8.2"
+  }
+}
