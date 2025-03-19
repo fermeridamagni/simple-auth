@@ -1,0 +1,23 @@
+{
+  "name": "simple-auth",
+  "version": "0.0.1",
+  "description": "Simple Authentication for Node.js",
+  "publisher": "fermeridamagni",
+  "sponsor": {
+    "url": "https://github.com/fermeridamagni/simple-auth/sponsor"
+  },
+  "author": {
+    "name": "fermeridamagni",
+    "url": "https://magnideveloper.com"
+  },
+  "keywords": [
+    "auth",
+    "simple-auth",
+    "authentication"
+  ],
+  "repository": {
+    "url": "https://github.com/fermeridamagni/simple-auth.git",
+    "type": "git"
+  },
+  "license": "ISC"
+}
