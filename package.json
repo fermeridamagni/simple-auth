@@ -19,5 +19,8 @@
     "auth",
     "simple-auth",
     "authentication"
+  ],
+  "workspaces": [
+    "packages/*"
   ]
 }
