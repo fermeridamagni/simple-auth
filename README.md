@@ -4,7 +4,7 @@
 
 ---
 
-> ! [!WARNING]
+> [!WARNING]
 > This project is actually in development by the Magni Developer Team, so it is a preview and it is not ready for production yet.
 
 ---
