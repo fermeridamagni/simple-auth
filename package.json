@@ -3,9 +3,9 @@
   "version": "0.0.1",
   "license": "ISC",
   "description": "Simple Authentication",
-  "publisher": "fermeridamagni",
+  "publisher": "fermeridamagni <Magni Developer>",
   "author": {
-    "name": "fermeridamagni",
+    "name": "fermeridamagni <Magni Developer>",
     "url": "https://magnideveloper.com"
   },
   "repository": {
