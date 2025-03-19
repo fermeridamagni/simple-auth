@@ -1,5 +1,4 @@
-<p align="center" style="font-size: 60px;">🔒</p>
-<h3 align="center" style="font-size: 34px;">Simple Auth</h3>
+<h3 align="center" style="font-size: 34px;">🔒 Simple Auth 🔒</h3>
 <p align="center" style="font-size: 20px;">A simple and effective authentication solution for your web applications.</p>
 
 ---
