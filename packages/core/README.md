@@ -1,13 +1,6 @@
 <h3 align="center" style="font-size: 34px;">🔒 Simple Auth 🔒</h3>
 <p align="center" style="font-size: 20px;">A simple and effective authentication solution for your web applications.</p>
 
----
-
-> ! [!WARNING]
-> This project is actually in development by the Magni Developer Team, so it is a preview and it is not ready for production yet.
-
----
-
 ## Features
 
 - 🚀 Flexible. You can use it with any Database, ORM, or any other data source.
