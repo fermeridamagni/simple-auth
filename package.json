@@ -27,5 +27,9 @@
   "dependencies": {},
   "devDependencies": {
     "lerna": "^8.2.1"
+  },
+  "scripts": {
+    "publish": "lerna publish",
+    "version": "lerna version"
   }
 }
