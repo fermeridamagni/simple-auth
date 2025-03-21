@@ -1,6 +1,6 @@
 {
   "name": "simple-auth",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "ISC",
   "private": true,
   "description": "Simple Authentication",
@@ -24,7 +24,6 @@
   "workspaces": [
     "packages/*"
   ],
-  "dependencies": {},
   "devDependencies": {
     "lerna": "^8.2.1"
   },
