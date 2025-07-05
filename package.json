@@ -1,6 +1,7 @@
 {
   "name": "simple-auth",
   "description": "✨ An easy-to-use authentication library for Node.js and browsers.",
+  "version": "1.0.0-beta.1",
   "private": true,
   "license": "MIT",
   "author": {
