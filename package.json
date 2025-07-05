@@ -2,6 +2,7 @@
   "name": "simple-auth",
   "description": "✨ An easy-to-use authentication library for Node.js and browsers.",
   "private": true,
+  "license": "MIT",
   "author": {
     "name": "fermeridamagni",
     "url": "https://github.com/fermeridamagni"
