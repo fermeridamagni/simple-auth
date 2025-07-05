@@ -1,9 +1,10 @@
 {
+  "typescript.tsdk": "node_modules/typescript/lib",
+
+  "editor.defaultFormatter": "biomejs.biome",
   "[javascript][typescript][javascriptreact][typescriptreact][json][jsonc][css][graphql]": {
     "editor.defaultFormatter": "biomejs.biome"
   },
-  "typescript.tsdk": "node_modules/typescript/lib",
-
   "editor.formatOnSave": true,
   "editor.formatOnPaste": true,
   "editor.codeActionsOnSave": {
